@@ -61,7 +61,3 @@ Confirm the destruction by typing `yes` when prompted.
 ## Disclaimer
 
 This repository is provided as-is and may not cover all use cases or best practices. Review and modify the configuration based on your specific requirements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
