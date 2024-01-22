@@ -22,7 +22,7 @@ Follow these steps to create an EC2 instance using Terraform:
 2. Navigate to the project directory:
 
    ```bash
-   cd terraform
+   cd Terraform_AWS
    ```
 
 3. Initialize Terraform:
