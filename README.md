@@ -22,7 +22,7 @@ Follow these steps to create an EC2 instance using Terraform:
 2. Navigate to the project directory:
 
    ```bash
-   cd terraform-aws-ec2
+   cd terraform
    ```
 
 3. Initialize Terraform:
@@ -47,9 +47,6 @@ Follow these steps to create an EC2 instance using Terraform:
 
 6. Once the deployment is complete, Terraform will output information about the created resources, including the public IP address of the EC2 instance.
 
-## Configuration
-
-Adjust the `variables.tf` file to customize the EC2 instance configuration, such as the instance type, AMI, key pair, etc.
 
 ## Cleanup
 
